@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/WebMail/WebMail.iml" filepath="$PROJECT_DIR$/WebMail/WebMail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/file/file.iml" filepath="$PROJECT_DIR$/file/file.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mail-java/mail-java.iml" filepath="$PROJECT_DIR$/mail-java/mail-java.iml" />
+    </modules>
+  </component>
+</project>
