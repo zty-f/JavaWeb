@@ -28,6 +28,7 @@ public class CharacterEncodingFilter implements Filter {
 
     //销毁：web服务器关闭的时候，过滤会销毁
     public void destroy() {
+
         System.out.println("CharacterEncodingFilter销毁");
     }
 }

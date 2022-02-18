@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0b6d6a6a-ce3d-4aae-9624-4709be642e3a" name="smbms" url="http://47.108.239.8">
+        <fileTransfer accessType="SFTP" host="47.108.239.8" port="22" sshConfigId="7f7d078d-e069-42ff-bfee-ec5400b460e8" sshConfig="root@47.108.239.8:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

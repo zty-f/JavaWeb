@@ -107,7 +107,7 @@ $(function(){
 	});
 	
 	ruserPassword.bind("focus",function(){
-		validateTip(ruserPassword.next(),{"color":"#666666"},"* 请输入与上面一只的密码",false);
+		validateTip(ruserPassword.next(),{"color":"#666666"},"* 请输入与上面一致的密码",false);
 	}).bind("blur",function(){
 		if(ruserPassword.val() != null && ruserPassword.val().length > 6
 				&& ruserPassword.val().length < 20 && userPassword.val() == ruserPassword.val()){

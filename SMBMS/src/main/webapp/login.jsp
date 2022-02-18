@@ -22,11 +22,11 @@
 				<div class="info">${error}</div>
 				<div class="inputbox">
                     <label for="userCode">用户名：</label>
-					<input type="text" class="input-text" id="userCode" name="userCode" placeholder="请输入用户名" required/>
+					<input type="text" class="input-text" id="userCode" value="Test" name="userCode" placeholder="请输入用户名" required/>
 				</div>	
 				<div class="inputbox">
                     <label for="userPassword">密码：</label>
-                    <input type="password" id="userPassword" name="userPassword" placeholder="请输入密码" required/>
+                    <input type="password" id="userPassword" name="userPassword" value="1234567" placeholder="请输入密码" required/>
                 </div>	
 				<div class="subBtn">
 					

@@ -11,6 +11,7 @@ package com.zty.filter;
 import com.zty.util.Constant;
 
 import javax.servlet.*;
+import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
@@ -34,6 +35,7 @@ public class SysFilter implements Filter {
 
     @Override
     public void destroy() {
+
 
     }
 }
